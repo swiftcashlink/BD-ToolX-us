@@ -1,0 +1,9 @@
+{
+  "name": "BD ToolX us",
+  "description": "Multi-setup marketing suite for BDToolX Media. AI-powered automation and analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
